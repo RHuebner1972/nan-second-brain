@@ -1,0 +1,12 @@
+{
+  "name": "the-brain",
+  "owner": { "name": "Shane Eising", "email": "shane.eising@nelnet.net" },
+  "description": "Marketplace for The Brain plugin — a personal knowledge system for Claude Code",
+  "plugins": [
+    {
+      "name": "the-brain",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

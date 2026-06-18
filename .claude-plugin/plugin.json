@@ -1,0 +1,16 @@
+{
+  "name": "the-brain",
+  "displayName": "The Brain",
+  "version": "1.0.1",
+  "description": "Personal knowledge system for Claude Code and Claude Cowork: three sub-brains (wiki, pm, planner), connector-aware skills, and a governance-compliant raw archive.",
+  "author": { "name": "Shane Eising" },
+  "keywords": ["knowledge", "pkm", "second-brain", "productivity"],
+  "userConfig": {
+    "brain_path": {
+      "type": "directory",
+      "title": "Brain directory",
+      "description": "Path to your Brain folder (created by /the-brain:newbrain). Lets /the-brain:log, /the-brain:myday, /the-brain:standup, and /the-brain:prep work from any directory. Claude Code only — Claude Cowork users do not need this and can ignore it.",
+      "required": false
+    }
+  }
+}
