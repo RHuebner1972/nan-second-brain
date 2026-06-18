@@ -7,7 +7,7 @@ A personal knowledge system operated entirely by Claude. Three specialized sub-b
 ## Install
 
 ```
-/plugin marketplace add nelnet-nbs/ailab-the-brain
+/plugin marketplace add RHuebner1972/nan-second-brain
 /plugin install the-brain@the-brain
 ```
 

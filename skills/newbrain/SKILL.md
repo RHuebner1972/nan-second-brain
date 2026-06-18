@@ -46,6 +46,7 @@ pm/projects/
 pm/meetings/
 pm/notes/
 pm/prep/
+pm/reports/
 planner/
 raw/
 ```
