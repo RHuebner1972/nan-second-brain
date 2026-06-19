@@ -1,7 +1,7 @@
 {
   "name": "the-brain",
-  "owner": { "name": "Shane Eising", "email": "shane.eising@nelnet.net" },
-  "description": "Marketplace for The Brain plugin — a personal knowledge system for Claude Code",
+  "owner": { "name": "Dr. Rich Huebner", "email": "rich.huebner@nantasket.ai" },
+  "description": "Marketplace for The Brain plugin — a personal second brain for Claude Code",
   "plugins": [
     {
       "name": "the-brain",
