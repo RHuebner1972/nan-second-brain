@@ -2,9 +2,9 @@
   "name": "the-brain",
   "displayName": "The Brain",
   "version": "1.0.1",
-  "description": "Personal knowledge system for Claude Code and Claude Cowork: three sub-brains (wiki, pm, planner), connector-aware skills, and a governance-compliant raw archive.",
+  "description": "Second AI brain and knowledge system for Claude Code and Claude Cowork: three sub-brains (wiki, pm, planner), connector-aware skills, and a governance-compliant raw archive.",
   "author": { "name": "Dr. Rich Huebner" },
-  "keywords": ["knowledge", "pkm", "second-brain", "productivity"],
+  "keywords": ["knowledge", "pkm", "second-brain", "productivity", "claude-code", "claude-cowork", "project-management", "personal-wiki", "planner"],
   "userConfig": {
     "brain_path": {
       "type": "directory",
