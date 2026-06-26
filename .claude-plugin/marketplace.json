@@ -1,7 +1,7 @@
 {
   "name": "the-brain",
-  "owner": { "name": "Dr. Rich Huebner", "email": "rich.huebner@nantasket.ai" },
-  "description": "Marketplace for The Brain plugin — a personal second brain for Claude Code",
+  "owner": { "name": "Dr. Rich Huebner", "email": "rich@nantasket.ai" },
+  "description": "Marketplace for Nantasket's Second Brain plugin — a personal second brain for Claude Code",
   "plugins": [
     {
       "name": "the-brain",
