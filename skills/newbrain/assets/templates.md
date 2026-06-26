@@ -94,10 +94,12 @@ One-paragraph definition.
 ### Aspect One
 
 Explanation with source ([[wiki/sources/source-name#heading]]).
+Provide at least a 3-5 sentence summary.
 
 ### Aspect Two
 
 Explanation with source.
+Provide at least a 3-5 sentence summary.
 
 ## Related Concepts
 
@@ -121,6 +123,7 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 tags: [source, domain]
 raw_source: raw/YYYY-MM-DD-slug.ext
+original_url: "URL the information was captured from"
 ---
 
 # Source Title
@@ -214,6 +217,8 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 tags: [project, domain]
 status: active
+responsible_person: Person Responsible
+executive_sponsor: Executive Sponsor
 stakeholders: ["[[wiki/entities/person]]"]
 started: YYYY-MM-DD
 target_date: YYYY-MM-DD
@@ -245,6 +250,14 @@ Key files for technical context:
 ## Stakeholders
 
 - [[wiki/entities/person]] — role on this project
+
+## Executive Sponsor
+
+The name of the executive that is sponsoring the project, if any.
+
+## People Involved
+
+All of the people that must be consulted and involved in the project, and their roles in the project.
 
 ## Decision Log
 
@@ -455,6 +468,7 @@ tags: [weekly, planner]
 ## Carrying Over
 
 - What didn't get done and why — links to tasks
+- Any open tasks for the project that are coming up within the next week to two weeks.
 
 ## Insights to Promote
 
